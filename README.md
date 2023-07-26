@@ -6,6 +6,7 @@
 *  React
 *  Supabase
 *  Vercel
+*  Docker
 
 ### Padrões
 * SOLID
